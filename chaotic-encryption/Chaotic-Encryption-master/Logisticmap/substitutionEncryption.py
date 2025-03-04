@@ -84,4 +84,3 @@ for i in range(height):
 # Displaying the decrypted image
 plt.imshow(decryptedImage)
 plt.show()
-print("big fur is furry")
